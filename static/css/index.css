@@ -1,0 +1,36 @@
+#btn_link_space{
+    margin-right: 6px;
+}
+
+.welcome_text{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.footer{
+    background-color: #e0e0e0;
+    color: #014751;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.loginbtn{
+     width: 100%;
+     padding: 8px 0;
+     border: none;
+     background-color: #014751;
+     font-size: 18px;
+     color: #fafafa;
+     text-transform: uppercase;
+     border-radius: 50px;
+     cursor: pointer;
+}
+
+
+.skill_del_btn{
+    padding-top: 4%;
+}
+
+
